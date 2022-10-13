@@ -37,10 +37,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harryvn&theme=dark&hide_border=true" align="left" />
 </div>
 
-<br/><br/><br/>
-
----
-
 ### Blogs:
 
 <!-- BLOG-POST-LIST:START -->

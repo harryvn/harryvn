@@ -40,4 +40,6 @@
 ### Blogs:
 
 <!-- BLOG-POST-LIST:START -->
+- [Automation Framework - Part 2](https://end.hashnode.dev/automation-framework-part-2)
+- [Automation Framework - Part 1](https://end.hashnode.dev/selenium-webdriver-using-javascript)
 <!-- BLOG-POST-LIST:END -->

@@ -35,7 +35,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=harryvn&theme=dark&show_icons=true&count_private=true&hide_border=true&color=black" align="left" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryvn&theme=dark&langs_count=10&hide_border=true&locale=en&custom_title=Top%20%Languages" align="center" /> <br/><br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harryvn&theme=dark&hide_border=true" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harryvn&theme=dark&repo=automation-framework&hide_border=true" align="center" />
 </div>
 
 <br/><br/><br/>

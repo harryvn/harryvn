@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/harryvn/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/harryvn786">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="https://end.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
@@ -40,6 +37,7 @@
 ### Blogs:
 
 <!-- BLOG-POST-LIST:START -->
+- [Automation Framework - Part 3](https://end.hashnode.dev/automation-framework-part-3)
 - [Automation Framework - Part 2](https://end.hashnode.dev/automation-framework-part-2)
 - [Automation Framework - Part 1](https://end.hashnode.dev/selenium-webdriver-using-javascript)
 <!-- BLOG-POST-LIST:END -->

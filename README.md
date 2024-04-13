@@ -1,8 +1,8 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/1sMGC0XjA1Hk58wppo/giphy.gif" width="150"/>
 </div>
 
-<div id="badges" align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/harryvn/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,33 +11,60 @@
   </a>
 </div>
 
-<div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=harryvn&style=flat-square&color=blue" align="center"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=harryvn&style=flat-square&color=blue"/>
 </div>
 
 <h1 align="center"> Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"/> I am Hari Nair </h1>
 
-### Languages and Tools:
+### Skills:
 
-<p align="left">
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="36" height="36"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/> </a>
+<p align="center">
+  <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="selenium-webdriver" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/>
+  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="jenkins" width="36" height="36"/>
+  <img src="https://webdriver.io/img/webdriverio.png" alt="webdriverio" width="36" height="36"/>
+  <img src="https://jestjs.io/img/favicon/favicon.ico" alt="jest" width="36" height="36"/>
+  <img src="https://assets.getpostman.com/common-share/postman-logo-horizontal-white.svg" alt="postman" width="120" height="36"/>
 </p>
+
+---
+
+### Projects:
+
+[Selenium WebDriver Automation Framework in Java](https://github.com/harryvn/selenium-automation-framework-java)
+
+[Selenium WebDriver Automation Framework in JavaScript](https://github.com/harryvn/automation-framework)
+
+---
+
+### Hashnode Blogs:
+
+#### Selenium WebDriver Automation Framework in Java
+<!-- BLOG-POST-LIST:START -->
+- [Part 1](https://end.hashnode.dev/selenium-webdriver-automation-framework-in-java)
+<!-- BLOG-POST-LIST:END -->
+
+#### Selenium WebDriver Automation Framework in JavaScript
+<!-- BLOG-POST-LIST:START -->
+- [Part 3](https://end.hashnode.dev/automation-framework-part-3)
+- [Part 2](https://end.hashnode.dev/automation-framework-part-2)
+- [Part 1](https://end.hashnode.dev/selenium-webdriver-using-javascript)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ### Statistics:
 
-<div id="stats">
-<img src="https://github-readme-stats.vercel.app/api?username=harryvn&theme=dark&show_icons=true&count_private=true&hide_border=true&color=black" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryvn&theme=dark&langs_count=10&hide_border=true&locale=en&custom_title=Top%20%Languages" align="center" /> <br/><br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harryvn&theme=dark&hide_border=true" align="left" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harryvn&theme=dark&show_icons=true&count_private=true&hide_border=true&color=black"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harryvn&theme=dark&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harryvn&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryvn&theme=dark&langs_count=10&hide_border=true&locale=en"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harryvn&theme=dark&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harryvn&theme=dark&hide_border=true"/>
 </div>
 
-### Blogs:
-
-<!-- BLOG-POST-LIST:START -->
-- [Automation Framework - Part 3](https://end.hashnode.dev/automation-framework-part-3)
-- [Automation Framework - Part 2](https://end.hashnode.dev/automation-framework-part-2)
-- [Automation Framework - Part 1](https://end.hashnode.dev/selenium-webdriver-using-javascript)
-<!-- BLOG-POST-LIST:END -->
+---

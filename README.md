@@ -72,8 +72,8 @@
 
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=harryvn&theme=dark&show_icons=true&count_private=true&hide_border=true&layout=compact"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harryvn&show_icons=true&theme=dark&hide_border=true&layout=compact"/>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryvn&show_icons=true&layout=compact&theme=dark&langs_count=10&hide_border=true&locale=en"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harryvn&show_icons=true&theme=dark&hide_border=true&layout=compact"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harryvn&show_icons=true&theme=dark&hide_border=true&layout=compact"/>
 </div>
 

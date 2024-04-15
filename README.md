@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [https://end.hashnode.dev](https://end.hashnode.dev)
 
-- 💬 Ask me about **selenium webdriver, docker**
+- 💬 Ask me about **Selenium WebDriver, Docker**
 
 ---
 

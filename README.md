@@ -57,6 +57,7 @@
 #### Selenium WebDriver Automation Framework in Java
 <!-- BLOG-POST-LIST:START -->
 - [Part 1](https://end.hashnode.dev/selenium-webdriver-automation-framework-in-java)
+- [Part 2](https://end.hashnode.dev/packaging-the-automation-framework)
 <!-- BLOG-POST-LIST:END -->
 
 #### Selenium WebDriver Automation Framework in JavaScript

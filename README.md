@@ -58,6 +58,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Part 1](https://end.hashnode.dev/selenium-webdriver-automation-framework-in-java)
 - [Part 2](https://end.hashnode.dev/packaging-the-automation-framework)
+- [Part 3](https://end.hashnode.dev/how-to-dockerize-your-test-automation-suite-for-enhanced-efficiency)
 <!-- BLOG-POST-LIST:END -->
 
 #### Selenium WebDriver Automation Framework in JavaScript
